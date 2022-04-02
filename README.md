@@ -5,7 +5,7 @@ Performing analysis on Kickstarter data to uncover trends in theater kickstarter
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater Outcome vs Goals](resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcome vs Goals](https://github.com/mmdemars/kickstarter-analysis/blob/resources/Outcomes_vs_Goals.png)
 ---
 Based on the data provided, the highest number of theater kickstarters were launched in May, and the lowest number were launched in December.
 ---
@@ -13,7 +13,7 @@ The high number of kickstarters launched in May corresponds to the high number o
 
 ### Analysis of Outcomes Based on Goals
 
-![Theater Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
+![Theater Outcomes vs Goals](https://github.com/mmdemars/kickstarter-analysis/blob/resources/Theater_Outcomes_vs_Launch.png)
 ---
 The highest number of successful play kickstarters were in the less than 1000$ range at a 76% success rate, followed by the 1000-4999$ range with a 73% success rate. The highest rate of failures at 100% was in the 45000-49999$ range, followed by the 50000$ or more at 86%. 
 
@@ -25,4 +25,4 @@ The highest number of successful play kickstarters were in the less than 1000$ r
 - Theater kickstarters are more likely to succeed if a goal of under 4999$ is set; and are more likely to fail in the 45000-49999$ range. In the theater genre, lower goals lhave a higher rate of success.
 - Niether of these set take into account the subject matter of the plays, or the cross section of goals and time launched. The failure of the simgular 45,0000$ campaign for The Lizard King could have just as much to do with a disinterest in Jim Morrison as the goal or the launch date.
 - Success rates of theater kickstarters over a span of years could be useful in determining the trends in theater interest over a larger span of time. 
-- 
+
